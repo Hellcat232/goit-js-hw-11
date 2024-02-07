@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  width: 70px;
+  height: 20px;
+  border: 1px solid #000;
+  background-color: rgb(131, 131, 221);
+  margin-left: 15px;
+  border-radius: 5px;
+}
